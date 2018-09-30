@@ -9,4 +9,34 @@ body{
 	margin-right: auto;
 	margin-left: auto;
  	color: #f00;
+
+}
+
+#username_id{
+	height: 30px;
+	width: 300px;
+	margin-top: 10px;
+}
+
+#password_id{
+	height: 30px;
+	width: 300px;
+	margin-top: 5px;
+}
+
+input[type=submit] {
+  height: 50px;
+  width: 100px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+#reset_id{
+	height: 50px;
+	width: 100px;
+	margin-top: 10px;
+}
+
+.form-group{
+	margin-left: 50px;
 }
