@@ -10,11 +10,12 @@ body{
 	margin-left: auto;
 <<<<<<< HEAD
  	color: #000;
- 	height: 200px;
+ 	height: 300px;
 }
 
 .form-group{
 	height: 50px;
+	margin-top: 50px;
 =======
  	color: #f00;
 
@@ -36,7 +37,7 @@ input[type=submit] {
   height: 50px;
   width: 100px;
   margin-top: 10px;
-  margin-left: 20px;
+  margin-left: 120px;
 }
 
 #reset_id{
