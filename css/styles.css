@@ -9,4 +9,16 @@ body{
 	margin-right: auto;
 	margin-left: auto;
  	color: #f00;
+	
+}
+
+h3 {
+	color: green;
+}
+
+.form-holder input#username_id {
+	height: 200px;
+}
+.form-holder input#password_id{
+	height: 200px;
 }
