@@ -1,12 +1,17 @@
 body{
-	background: #000;
+	background: #fff;
 
 }
 
 .form-holder{
 	width: 500px;
-	background: #fff;
+	background: grey;
 	margin-right: auto;
 	margin-left: auto;
- 	color: #f00;
+ 	color: #000;
+ 	height: 200px;
+}
+
+.form-group{
+	height: 50px;
 }
