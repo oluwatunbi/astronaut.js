@@ -9,6 +9,9 @@ body{
 	margin-right: auto;
 	margin-left: auto;
  	color: #f00;
+<<<<<<< HEAD
+	
+=======
 
 }
 
@@ -39,4 +42,16 @@ input[type=submit] {
 
 .form-group{
 	margin-left: 50px;
+>>>>>>> 81eb3d2ebfbce93db30a0263a6ad04eeb63d7293
+}
+
+h3 {
+	color: green;
+}
+
+.form-holder input#username_id {
+	height: 200px;
+}
+.form-holder input#password_id{
+	height: 200px;
 }
