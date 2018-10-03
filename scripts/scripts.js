@@ -41,11 +41,26 @@ if(username.length < 3){
 
 
 
-
 return false;
 
 
 }
+
+function openform(){
+	document.getElementById("myform").styles.display ="block";
+} 
+
+function submit_form(){
+	if (documnet.getElementById("firstname").value == strings;){
+		alert("your details has been submited");
+	} 
+	else{
+		alert("retype");
+	}
+
+		
+	}
+
 
 
 

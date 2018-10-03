@@ -1,6 +1,69 @@
 body{
 	background: #fff;
+	margin-top:50px;
 
+}
+.register{
+	margin-right:00;
+	margin-left: 00px;
+	margin-top: 50px;
+}
+/* this was suppose to make is pop up hidden display:none; but i keep receiving error on the javascript console*/
+.open-popup{
+	display:;
+	position:fixed;
+	bottom:0;
+	z-index:9;
+	
+
+
+}
+.form-container{
+	height:350px;
+	width:300px;
+	padding:50px;
+	margin-right:300px;
+	margin-left:400px;
+	margin-bottom:200px;
+	border:solid 1px;
+	background-color: blue;
+	opacity:0.9;
+	font-weight:bold;
+	font-family:"Times New Roman", Times, serif;
+	color:red;
+}
+
+.open-button{
+	margin-left:800px;
+	margin-top:20px;
+	padding:10px 10px 10px 10px;
+	background:gray;
+	opacity:0.9;
+	color:black;
+	font-weight:bold;
+
+}
+
+.Firstname{
+	padding:20px 90px 20px 0px;
+	text-align:left;
+}
+
+.Lastname{
+	padding:10px 70px 20px 0px;
+}
+
+.Email{
+	padding:10px 70px 20px 0px;
+}
+
+.phone_no{
+	padding:10px 70px 100px 0px;
+}
+
+.send-form{
+	padding:10px 20px 0px 20px;
+	background-color:cyan;
 }
 
 .form-holder{
@@ -8,45 +71,41 @@ body{
 	background: grey;
 	margin-right: auto;
 	margin-left: auto;
-<<<<<<< HEAD
+	margin-top:100px;
  	color: #000;
- 	height: 300px;
+ 	height: 350px;
 }
 
 .form-group{
 	height: 50px;
-	margin-top: 50px;
-=======
- 	color: #f00;
+	margin-left:50px; 
 
 }
 
 #username_id{
 	height: 30px;
 	width: 300px;
-	margin-top: 10px;
+	margin-top: 100px;
 }
 
 #password_id{
 	height: 30px;
 	width: 300px;
-	margin-top: 5px;
+	margin-top: 100px;
 }
 
 input[type=submit] {
   height: 50px;
   width: 100px;
-  margin-top: 10px;
+  margin-top: 100px;
   margin-left: 120px;
+  border-radius:25px;
 }
 
 #reset_id{
 	height: 50px;
 	width: 100px;
 	margin-top: 10px;
+	border-radius:25px;
 }
 
-.form-group{
-	margin-left: 50px;
->>>>>>> 81eb3d2ebfbce93db30a0263a6ad04eeb63d7293
-}
